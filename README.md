@@ -1,6 +1,7 @@
 # My Portfolio Website
-
-This is a simple personal portfolio built using HTML,CSS and JavaScript.
+NAME:AMINA JUMA HAMAD
+REGNO:24BCS035
+This is a simple portfolio built using HTML,CSS and JavaScript.
 
 ## Features
 - Semantic HTML5 structure
